@@ -1,3 +1,9 @@
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbelRyT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelRyT&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbelRyT&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 Ingeniero en Sistemas Computacionales y desarrollador backend .NET con más de cuatro años de experiencia creando soluciones para sistemas de recursos humanos y nómina. Me especializo en el diseño y la administración de bases de datos en PostgreSQL y SQL Server, en la integración de dispositivos biométricos (ZKTeco, BioTime) y en la migración de sistemas heredados a arquitecturas modernas. Me interesa escribir código limpio, escalable y fácil de mantener, y disfruto resolver problemas complejos de lógica de negocio, como cálculos de nómina e impuestos. Desde República Dominicana 🇩🇴, siempre abierto a colaborar y seguir aprendiendo.
 
