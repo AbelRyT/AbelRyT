@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-label="Áreas de trabajo">
+  <g transform="translate(0.0,0)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">01</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Nómina y RR. HH.</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Cálculo de nómina, ISR, vacaciones</tspan>
+      <tspan x="22" y="107">y antigüedad con PL/pgSQL y LINQ.</tspan>
+    </text>
+  </g>
+  <g transform="translate(298.0,0)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">02</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Integraciones biométricas</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Relojes ZKTeco y BioTime conectados</tspan>
+      <tspan x="22" y="107">por TCP/IP a la nómina.</tspan>
+    </text>
+  </g>
+  <g transform="translate(596.0,0)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">03</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Facturación electrónica</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Emisión de comprobantes e-CF (DGII)</tspan>
+      <tspan x="22" y="107">con Blazor y MudBlazor.</tspan>
+    </text>
+  </g>
+  <g transform="translate(0.0,142)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">04</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Almacenes y logística</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Control de inventario, operaciones</tspan>
+      <tspan x="22" y="107">de almacén y procesos logísticos.</tspan>
+    </text>
+  </g>
+  <g transform="translate(298.0,142)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">05</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Bases de datos</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Modelado y optimización en</tspan>
+      <tspan x="22" y="107">PostgreSQL y SQL Server.</tspan>
+    </text>
+  </g>
+  <g transform="translate(596.0,142)">
+    <rect x="0.5" y="0.5" width="283.0" height="127" rx="12" fill="#11151c" stroke="#232a35"/>
+    <text x="22" y="34" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#a684ff">06</text>
+    <text x="22" y="62" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Migraciones</text>
+    <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#8b949e">
+      <tspan x="22" y="88">Modernización de sistemas heredados</tspan>
+      <tspan x="22" y="107">hacia .NET y Blazor.</tspan>
+    </text>
+  </g>
+</svg>
